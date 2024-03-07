@@ -1,4 +1,4 @@
-# MVI-Projec
+# MVI-Project
 
  Se ha utilizado el patrón MVI (Model-View-Intent) y JetPack Compose para las vistas.
 
